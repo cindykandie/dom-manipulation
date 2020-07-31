@@ -1,2 +1,2 @@
 # dom-manipulation
-Modal-DOM-Manipulation Ass 3
+Modal-DOM-Manipulation Assessment 3
