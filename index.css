@@ -1,0 +1,16 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(238, 13, 51);
+    color: white;
+    font-family: cursive;
+   
+}
+
+
+#main{
+    position: fixed;
+    opacity:0;
+    pointer-events: none;
+    transition: opacity 0.2s ease-in;
+}
